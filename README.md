@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png/" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png" width="100"/>
 </div>
 
-# Hi, I'm Anson! 👋
+# Hi, I'm Anson! (he/him) 👋
 
 I am a passionate PhD. Electrical Engineering student at Virginia Polytechnic Institute and State University. I love all types of development from the lowest-level embedded programs to the highest-level web scripts. Always wanting to learn more and grow my knowledge in each subject area!
 
