@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![image](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png)
+  <img src=https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png/ width="100">
 </div>
 
 # Hi, I'm Anson! 👋
