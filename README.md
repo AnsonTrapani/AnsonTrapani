@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![image](https://github.com/user-attachments/assets/c2ab2cd3-930f-43c4-b395-79783f21c674)
+  ![image](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png)
 </div>
 
 # Hi, I'm Anson! 👋
