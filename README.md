@@ -4,7 +4,7 @@
 
 # Hi, I'm Anson! (he/him) 👋
 
-I am a passionate PhD. Electrical Engineering student at Virginia Polytechnic Institute and State University. I love all types of development from the lowest-level embedded programs to the highest-level web scripts. Always wanting to learn more and grow my knowledge in each subject area!
+I am a passionate Electrical Engineer who attended Virginia Polytechnic Institute and State University. I love all types of development from the lowest-level embedded programs to the highest-level web scripts. Always wanting to learn more and grow my knowledge in each subject area!
 
 ![AnsonTrapani's Stats](https://github-readme-stats.vercel.app/api?username=AnsonTrapani&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -12,7 +12,7 @@ I am a passionate PhD. Electrical Engineering student at Virginia Polytechnic In
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my PhD in Electrical Engineering at Virginia Polytechnic Institute and State University.
+- 🔭 I'm super into cryptography and security.
 - 🇺🇸 I am employed at the [United States Naval Research Laboratory](https://www.nrl.navy.mil/) as an Electrical Engineer, focusing on embedded systems development and digital signal processing.
 - 📝 Proud member of the [Virginia Tech IEEE Chapter](https://www.ieee.vt.edu/), contributing to the tech community.
 - ✍️ Publishing papers on novel secure authentication techniques. See my [Orchid ID](https://orcid.org/0009-0006-3470-1579) here.
