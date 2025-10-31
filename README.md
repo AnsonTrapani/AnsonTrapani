@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png" width="500"/>
 </div>
 
 # Hi, I'm Anson! (he/him) 👋
@@ -16,6 +16,7 @@ I am a passionate Electrical Engineer who attended Virginia Polytechnic Institut
 - 🇺🇸 I am employed at the [United States Naval Research Laboratory](https://www.nrl.navy.mil/) as an Electrical Engineer, focusing on embedded systems development and digital signal processing.
 - 📝 Proud member of the [Virginia Tech IEEE Chapter](https://www.ieee.vt.edu/), contributing to the tech community.
 - ✍️ Publishing papers on novel secure authentication techniques. See my [Orchid ID](https://orcid.org/0009-0006-3470-1579) here.
+- Bitcoin believer: it's the future of money! <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="100"/>
 
 ## My Articles
 - [Lattice Matched Germanium-on-AlAs Nanosheet-FETs for More-Moore CMOS](https://ieeexplore.ieee.org/document/10713995)
